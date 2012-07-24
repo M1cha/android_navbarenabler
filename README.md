@@ -1,4 +1,4 @@
-android_onscreenbutton_enabler
+android_navbarenabler
 ==============================
 
 Enables NavigationBar for Android >=4.0 by patching framework-res.apk
