@@ -1,7 +1,7 @@
 android_onscreenbutton_enabler
 ==============================
 
-Enables OnScreenButtons for Android >=4.0 by patching framework-res.apk
+Enables NavigationBar for Android >=4.0 by patching framework-res.apk
 
     usage: patch-framework.py [-h] [-d] [-w WIDTH] [-s HEIGHT]
                               [-sl HEIGHT_LANDSCAPE]
